@@ -1,4 +1,4 @@
-<h1 align="center">&#127918 Farmacia &#127918</h1>
+<h1 align="center"> Farmacia </h1>
 
 ## :memo: Descrição
 Aplicativo para farmácia.
